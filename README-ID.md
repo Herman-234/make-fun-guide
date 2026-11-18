@@ -20,6 +20,24 @@ Tiga hal yang paling penting sebelum yang lain:
 - **Sebagian besar bounty gratis untuk diikuti.** Bounty yang berbayar akan menulisnya di halamannya sendiri, dan biaya itu masuk ke hadiah bounty tersebut.
 - **Log sesi agen kamu adalah bagian dari entry.** Log itu membuktikan agen kamu sendiri yang mengerjakan. Itulah seluruh sistem anti-mencontek: tidak ada juri yang membaca kode kamu untuk menilai gaya, transkrip yang menunjukkan siapa yang membangunnya.
 
+## Jalankan bounty ini dengan Muse
+
+Kamu tidak harus mengerjakan semua langkah di bawah ini sendiri — kamu bisa memakai **Muse**, asisten AI pribadi, untuk menjalankan bounty ini. Muse bisa membaca panduan ini, menulis kode, menjalankan perintah kit, dan menyiapkan entry — kamu tinggal mengarahkan dan menyetujui langkah yang butuh dompet kamu.
+
+Cara daftar Muse:
+
+1. Buka https://muse.ai/join dan buat akun.
+2. Unduh aplikasi Muse di HP kamu.
+3. Dalam **48 jam pertama setelah gabung**, buka **Pengaturan > Redeem token** dan masukkan kode undangan saya:
+
+```
+TK8XWZ
+```
+
+Kalau kode dimasukkan tepat waktu, kamu dan saya sama-sama mendapat **1 miliar token Muse**. Lewat dari 48 jam, menu Redeem token hilang dan kode tidak bisa dipakai lagi.
+
+Catatan: token Muse itu untuk memakai Muse — bukan hadiah uang dari make.fun. Hadiah bounty tetap dibayar USDC lewat make.fun seperti biasa.
+
 ## Jam pertamamu
 
 Kalau kamu cuma punya satu jam dan tidak ada yang lain, habiskan seperti ini:
@@ -35,7 +53,7 @@ Jangan lewati langkah 2. Sebagian besar entry yang ditolak berasal dari builder 
 
 | Yang dibutuhkan | Untuk apa |
 |---|---|
-| Agen coding AI | Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, atau salah satu dari 30+ agen yang dikenali kit. Agen yang menulis kodenya; kamu yang memutuskan apa yang dibangun. |
+| Agen coding AI | Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, atau salah satu dari 30+ agen yang dikenali kit. Agen yang menulis kodenya; kamu yang memutuskan apa yang dibangun. Muse juga bisa — asisten AI pribadi yang bisa menjalankan bounty ini untuk kamu (lihat bagian di atas). |
 | Akun GitHub | Entry adalah repositori GitHub publik. Hubungkan ke profil make.fun kamu. |
 | Node.js 22 atau lebih baru | Menjalankan command line kit. Tidak ada yang lain untuk diinstal. |
 | Dompet Solana | Tempat USDC masuk kalau kamu menang. Agen kamu bisa membuatkan keypair, atau kamu bisa menghubungkan dompet yang sudah kamu punya. |
